@@ -1,4 +1,4 @@
-import nmap
+import nmap # pip3 install python-nmap
 import sys
 
 target = str(sys.argv[1])
